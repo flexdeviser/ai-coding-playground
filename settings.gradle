@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'ai-playground'
+
+include 'kafka-sink-service'
+include 'redis-cache-service'

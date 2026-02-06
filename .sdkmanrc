@@ -1,0 +1,9 @@
+# This file is used by SDKMAN to set project-specific Java version
+# Usage: sdk env install
+# This will automatically switch to Java 17.0.13-amzn when entering this project directory
+
+# Java version
+java=17.0.13-amzn
+
+# Gradle version
+gradle=8.14
